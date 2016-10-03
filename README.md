@@ -1,1 +1,1 @@
-hello fucking world
+hello world
